@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+    background-color: #865858;
+    margin-top: 10%;
+}
+button {
+    background-color: #e2d5d5;
+    border: solid;
+    color: #865858;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    cursor: pointer;
+  }
+  button:hover
+  {
+      background-color: #8e7f7f;
+  }
+img
+{
+    width: 500px;
+    position: relative;
+    border-style: solid;
+    border-color: #bbbbbb;
+    border-width: 25px;
+}
